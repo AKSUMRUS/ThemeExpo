@@ -1,0 +1,12 @@
+{
+  "name": "ThemeExpo",
+  "displayName": "ThemeExpo",
+  "expo": {
+    "name": "ThemeExpo",
+    "slug": "ThemeExpo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
